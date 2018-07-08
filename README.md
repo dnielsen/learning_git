@@ -1,6 +1,9 @@
 # learning_git
 resources to help you learn git
 
+Geting Started
+- https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+
 Push changes back to master:
 - git clone repo-url
 - git add *
